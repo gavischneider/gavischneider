@@ -4,6 +4,8 @@ My name is Gavi Schneider and I'm a Software Engineer and a Computer Science stu
 
 <br>
 
+## 🖊 Latest Blog Posts
+
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/1" alt="Recent Article 1">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/2" alt="Recent Article 2">
