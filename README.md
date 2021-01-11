@@ -6,18 +6,18 @@ My name is Gavi Schneider and I'm a Software Engineer and a Computer Science stu
 
 ## 📫 Where You Can Find Me
 
-<p align='center'>
+<!-- <p align='center'> -->
+
 <a href="https://dev.to/gschnei"><img height="30" src="https://raw.githubusercontent.com/gavischneider/gavischneider/main/icons/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/gschnei"><img height="30" src="https://github.com/gavischneider/gavischneider/blob/main/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/gavischneider/"><img height="30" src="https://github.com/gavischneider/gavischneider/blob/main/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gavi-schneider-27a87837/"><img height="30" src="https://github.com/gavischneider/gavischneider/blob/main/icons/linkedin.png?raw=true"></a>
-</p>
+
+<!-- </p> -->
 
 <br>
 
-## 👨‍💻 Languages and Tools
-
-### My Tech Stack
+## 👨‍💻 My Tech Stack
 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -43,5 +43,3 @@ My name is Gavi Schneider and I'm a Software Engineer and a Computer Science stu
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/1" alt="Recent Article 1">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/2" alt="Recent Article 2">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/3" alt="Recent Article 3">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/4" alt="Recent Article 4">
