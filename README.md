@@ -43,3 +43,14 @@ My name is Gavi Schneider and I'm a Software Engineer and a Computer Science stu
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/1" alt="Recent Article 1">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/2" alt="Recent Article 2">
+
+<br>
+
+## ⌨️ GitHub Stats
+
+<a href="https://github.com/gavischneider/gavischneider">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavischneider&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/gavischneider/gavischneider">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gavischneider&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
