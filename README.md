@@ -8,4 +8,4 @@ My name is Gavi Schneider and I'm a Software Engineer and a Computer Science stu
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/1" alt="Recent Article 1">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/2" alt="Recent Article 2">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/3" alt="Recent Article 3">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/3" alt="Recent Article 3">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gavischneider/4" alt="Recent Article 4">
