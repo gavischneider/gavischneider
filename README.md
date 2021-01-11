@@ -49,5 +49,5 @@ My name is Gavi Schneider and I'm a Software Engineer and a Computer Science stu
 ## ⌨️ GitHub Stats
 
 <a href="https://github.com/gavischneider/gavischneider">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gavischneider&theme=shades-of-purple&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gavischneider&theme=shades-of-purple&show_icons=true&line_height=27&count_private=true" />
 </a>
