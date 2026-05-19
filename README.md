@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-I'm Gavi, an Automation Engineer at F5 based in Israel.
+I'm Gavi, a Software Engineer based in Israel.
 
 <br>
 
